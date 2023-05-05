@@ -1,8 +1,9 @@
 body{
-    background-color:#ca6702;
-    font-family: 'Open Sans', sans-serif;
-    
+    background-color:#09440e;
+    font-family: 'Open Sans', sans-serif; 
 }
+ 
+
 
 .pizza {
     margin: 5em; 
@@ -47,9 +48,10 @@ body{
       display:flex;
     
     }
+    }
     
     
-  }
+  
 
   
 
